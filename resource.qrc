@@ -1,0 +1,20 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+
+<file>start.ico</file>
+<file>stop.ico</file>
+<file>search.ico</file>
+<file>favicon.ico</file>
+<file>openlog.ico</file>
+<file>nextpacket.ico</file>
+<file>previouspacket.ico</file>
+<file>help.ico</file>
+<file>zoomin.ico</file>
+<file>zoomout.ico</file>
+<file>statistics.ico</file>
+<file>firstpacket.ico</file>
+<file>lastpacket.ico</file>
+
+</qresource>
+</RCC>
